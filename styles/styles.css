@@ -1,0 +1,59 @@
+body{
+    margin-top: 100px;
+    background: black;
+    font-family: 'Heebo', sans-serif;
+}
+div{
+    background: white;
+}
+
+img{
+    width: 100%;
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+.header_left{
+    display: inline-block;
+    width: 87%;
+    padding: 10px;
+}
+.header_right{
+    display: inline-block;
+    width: 7%;
+}
+
+.material-symbols-outlined{
+    padding: 20px;
+    margin-left: 0;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+ 
+  }
+
+  h1,h2{
+    margin: 0;
+    padding-left: 10px;
+
+  }
+
+  #delete{
+    margin-left: 350px;
+  }
+
+  .stadistics{
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .comment{
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
