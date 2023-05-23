@@ -53,7 +53,7 @@ img{
 
   }
 
-  #delete{
+  .delete{
     margin-left: 350px;
   }
 
@@ -62,7 +62,7 @@ img{
     padding-top: 0px;
     padding-bottom: 0px;
   }
-  
+
   .comment{
     padding: 20px;
     padding-top: 0px;
