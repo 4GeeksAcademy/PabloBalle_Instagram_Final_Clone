@@ -3,6 +3,7 @@ body{
     background: black;
     font-family: 'Heebo', sans-serif;
 }
+
 div{
     background: white;
 }
@@ -18,8 +19,17 @@ img{
 
 .header_left{
     display: inline-block;
-    width: 87%;
-    padding: 10px;
+    width: 6.5%;
+    padding:  10px;
+    padding-left:  0px;
+    padding-right:  10px;
+}
+
+.header_mid{
+    display: inline-block;
+    width: 80%;
+    padding-top: 10px;
+
 }
 .header_right{
     display: inline-block;
@@ -37,7 +47,7 @@ img{
  
   }
 
-  h1,h2{
+  h3,h4{
     margin: 0;
     padding-left: 10px;
 
@@ -52,8 +62,9 @@ img{
     padding-top: 0px;
     padding-bottom: 0px;
   }
+  
   .comment{
     padding: 20px;
     padding-top: 0px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
   }
